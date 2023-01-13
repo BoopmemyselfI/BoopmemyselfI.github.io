@@ -1,7 +1,7 @@
 # *BoopmemyselfI.github.io*
 Jon Gabriel Marbella 
 
-LG **Brebeuf**
+LG **BREBEUF**
 
 ![banana](https://user-images.githubusercontent.com/122419213/212210995-b219ceca-0e4b-4555-b307-628b40261e53.png)
 
