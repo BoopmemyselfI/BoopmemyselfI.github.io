@@ -9,3 +9,5 @@ LG **Brebeuf**
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 |--------|---------|-----------|----------|--------|
 |BANANA|BANANA|BANANA|banana|BANANA|
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ub1vmLCvspE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
